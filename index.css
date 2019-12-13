@@ -35,11 +35,7 @@ html {
   position: relative;
 }
 
-/* .inner-container:nth-child(2n) {
-  background-color: red;
-} */
-
-.breadcrumb::after {
+.breadcrumb:nth-last-child(n+2)::after {
     content: "";
   position: absolute;
   left: 100%;
