@@ -61,5 +61,5 @@ html {
 /* right-facing arrow after all breadcrumbs except last */
 
 .breadcrumb.completed::after {
-  border-left: 15px solid #2aa6b9;
+  border-left-color: #2aa6b9;
 }
