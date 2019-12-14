@@ -11,7 +11,7 @@ html {
 
 .breadcrumbs-container {
   margin: 60px auto;
-  width: 900px;
+  width: 1050px;
   height: 100px;
   border: 1px solid darkgray;
   display: flex;
@@ -46,6 +46,7 @@ html {
   border-bottom: 25px solid transparent;
   z-index: 10;
 }
+/* right-facing arrow after all breadcrumbs except last */
 
 .breadcrumb.completed {
   background-color: #2aa6b9;
