@@ -23,7 +23,15 @@ html {
   height: 51%;
   width: 95%;
   display: flex;
+  /* margin: 26px 19px 23px 22px; */
 }
+  /* hardcoded margin can be used instead of 
+  .breadcrumbs-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    } 
+  */
 
 .breadcrumb {
   background-color: #e6e6e5;
