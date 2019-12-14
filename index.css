@@ -25,7 +25,7 @@ html {
   display: flex;
   /* margin: 26px 19px 23px 22px; */
 }
-  /* hardcoded margin can be used instead of 
+  /* the hardcoded margin above can be used instead of 
   .breadcrumbs-container {
     display: flex;
     justify-content: center;
@@ -71,15 +71,6 @@ html {
 .breadcrumb.completed::after {
   border-left-color: #2aa6b9;
 }
-
-/* .breadcrumb:nth-child(1) > p::before {
-    content: "";
-    background-image: url("./tick2.jpg");
-    z-index: 20;
-    width: 30px;
-    height: 30px;
-    display: inline-block;
-} */
 
 #tick-image {
     height: 30px;
