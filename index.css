@@ -72,11 +72,10 @@ html {
   border-left-color: #2aa6b9;
 }
 
-#tick-image {
-    height: 30px;
+.check-mark {
     position: absolute;
     left: 56px;
-    top: 6px;
+    top: 10px;
 }
 
 .breadcrumb:nth-child(1) > p {
@@ -84,3 +83,4 @@ html {
     left: 94px;
     top: -8px;
 }
+
